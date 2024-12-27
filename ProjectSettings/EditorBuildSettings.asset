@@ -12,6 +12,18 @@ EditorBuildSettings:
     path: Assets/gezgin/Scenes/MainScreen.unity
     guid: cede6db585dd5904fb741b5e0fe95232
   - enabled: 1
-    path: Assets/gezgin/Scenes/Citys/Istanbul/ISTANBUL.unity
+    path: Assets/gezgin/Scenes/Citys/34Istanbul/ISTANBUL.unity
     guid: 08f6d1f61164d0241ae4a20073b3b54f
+  - enabled: 1
+    path: Assets/gezgin/Scenes/Citys/6ANKARA/ANKARA.unity
+    guid: 3395c2279113bcd44a7cab12c71c00d8
+  - enabled: 1
+    path: Assets/gezgin/Scenes/Citys/1ADANA/ADANA.unity
+    guid: 9afd58f87954f0b4b85f47b09d6188ac
+  - enabled: 1
+    path: Assets/gezgin/Scenes/Citys/2ADIYAMAN/ADIYAMAN.unity
+    guid: fd8318f610ac8094cbd72b12e8887297
+  - enabled: 1
+    path: "Assets/gezgin/Scenes/Citys/3AFYONKARAH\u0130SAR/AFYONKARAHISAR.unity"
+    guid: 2402caa37ffc20a42b7d64ed8929e75f
   m_configObjects: {}

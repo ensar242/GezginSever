@@ -15,11 +15,28 @@ public class pageTransitions : MonoBehaviour
     {
         SceneManager.LoadScene("MainScreen");
     }
+    public void Adana()
+    {
+        SceneManager.LoadScene("ADANA");
+    }
+    public void Adiyaman()
+    {
+        SceneManager.LoadScene("ADIYAMAN");
+    }
+    public void AFYON()
+    {
+        SceneManager.LoadScene("AFYONKARAHISAR");
+    }
 
+    public void Ankara()
+    {
+        SceneManager.LoadScene("Ankara");
+    }
     public void Istanbul()
     {
         SceneManager.LoadScene("Istanbul");
     }
+
 
 
 }
