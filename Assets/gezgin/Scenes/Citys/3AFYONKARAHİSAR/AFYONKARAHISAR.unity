@@ -265,7 +265,7 @@ GameObject:
   - component: {fileID: 26225443}
   - component: {fileID: 26225442}
   m_Layer: 0
-  m_Name: ayasofyaLink
+  m_Name: "ATATURKEV\u0130Link"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -283,7 +283,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30a7a20dfb4be69498a391ec513118d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mapsURL: https://maps.app.goo.gl/uoTjZhgF7kzSfr9m9
+  mapsURL: https://maps.app.goo.gl/wvJcAoy5vaEm5U236
 --- !u!4 &26225443
 Transform:
   m_ObjectHideFlags: 0
@@ -387,7 +387,7 @@ GameObject:
   - component: {fileID: 70739369}
   - component: {fileID: 70739368}
   m_Layer: 5
-  m_Name: 'DolmabahceSarayiMaps  '
+  m_Name: "FR\u0130GVAD\u0130S\u0130Maps  "
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -488,7 +488,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 40ea79d3fabcad348946a38b021d0391, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7cf880dceec52564c80ba7cc500338d6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -518,7 +518,7 @@ GameObject:
   - component: {fileID: 208277144}
   - component: {fileID: 208277143}
   m_Layer: 5
-  m_Name: "SerefiyeSarniciAc\u0131klama"
+  m_Name: "AFYONKALESAc\u0131klama"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -541,7 +541,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1000, y: 1002.1712}
+  m_SizeDelta: {x: 1000, y: 1409.6917}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &208277143
 MonoBehaviour:
@@ -570,24 +570,32 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 47
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u015Eerefiye Sarn\u0131c\u0131 veya Theodosius Sarn\u0131c\u0131 (Yunanca:
-    \u039A\u03B9\u03BD\u03C3\u03C4\u03AD\u03C1\u03BD\u03B1 \u0398\u03B5\u03BF\u03B4\u03BF\u03C3\u03AF\u03BF\u03C5
-    Kisterna Theodosiou) \u0130stanbul'un Fatih il\xE7esinde, Tarihi Yar\u0131mada\u2019da
-    bulunan pek \xE7ok Bizans D\xF6nemi sarn\u0131c\u0131ndan biridir. Divan Yolu
-    Caddesi, Piyer Loti Caddesi, Boyac\u0131 Ahmet Sokak ve Dostluk Yurdu Sokak\u2019\u0131n
-    s\u0131n\u0131rland\u0131rd\u0131\u011F\u0131 yap\u0131 adas\u0131n\u0131n g\xFCneyinde
-    yer al\u0131r.\r\n\r\nBizans D\xF6neminde Konstantinopolis\u2019in tarihsel topografyas\u0131
-    g\xF6z \xF6n\xFCnde bulunduruldu\u011Funda yap\u0131, Antik Mese yolunun g\xFCneyinde,
-    Konstantin Forumu'nun g\xFCneydo\u011Fusunda, Binbirdirek Sarn\u0131c\u0131'n\u0131n
-    bat\u0131s\u0131nda bulunmaktad\u0131r. Mese \xFCzerindeki isale hatt\u0131ndan
-    faydalanabilecek sarn\u0131\xE7lar aras\u0131ndad\u0131r.\n\r\nYap\u0131 ilk
-    olarak 1893\u2019de Forscheimer ve Strzygowski taraf\u0131ndan belgelenmi\u015Ftir."
+  m_Text: "Afyon Kalesi, Afyonkarahisar \u015Fehir merkezinin en y\xFCksek noktas\u0131nda
+    bulunan ve \u015Fehre h\xE2kim bir konumda yer alan tarihi bir yap\u0131d\u0131r.
+    \u015Eehir i\xE7in \xF6nemli bir simge olan kale, hem tarih\xEE hem de stratejik
+    a\xE7\u0131dan b\xFCy\xFCk \xF6neme sahiptir.\n\nAfyon Kalesi'nin yap\u0131m\u0131
+    M\xD6 3000 y\u0131llar\u0131na kadar gitmektedir ve Frigler taraf\u0131ndan in\u015Fa
+    edildi\u011Fi d\xFC\u015F\xFCn\xFClmektedir. Kale, daha sonra Roma, Bizans, Sel\xE7uklu
+    ve Osmanl\u0131 gibi farkl\u0131 medeniyetler taraf\u0131ndan kullan\u0131lm\u0131\u015F
+    ve her bir d\xF6nem kendi izlerini b\u0131rakm\u0131\u015Ft\u0131r. Yap\u0131n\u0131n
+    en dikkat \xE7ekici \xF6zelliklerinden biri, tarihi katmanlar\u0131n bir arada
+    bulunmas\u0131d\u0131r.\n\nKale, y\xFCksek surlar\u0131, savunma kuleleri ve
+    giri\u015F kap\u0131lar\u0131 ile dikkat \xE7eker. Ayr\u0131ca kalede, kaya i\xE7ine
+    oyulmu\u015F ma\u011Faralar, sarn\u0131\xE7lar ve zindanlar gibi ilgin\xE7 yap\u0131lar
+    da yer almaktad\u0131r. Kalenin zirvesine \xE7\u0131k\u0131ld\u0131\u011F\u0131nda,
+    Afyonkarahisar \u015Fehir manzaras\u0131 ve \xE7evresindeki do\u011Fal g\xFCzellikler
+    e\u015Fli\u011Finde e\u015Fsiz bir g\xF6r\xFC\u015F a\xE7\u0131s\u0131 sa\u011Flan\u0131r.\n\nBug\xFCn
+    Afyon Kalesi, hem tarihi bir mek\xE2n olarak hem de panoramik manzaras\u0131yla
+    \u015Fehri ziyaret eden turistler i\xE7in \xF6nemli bir cazibe merkezidir. Ziyaret\xE7iler,
+    kale etraf\u0131nda y\xFCr\xFCy\xFC\u015F yapabilir, kalenin tarihini ke\u015Ffedebilir
+    ve Afyonkarahisar\u2019\u0131n b\xFCy\xFCleyici manzaras\u0131n\u0131n keyfini
+    \xE7\u0131karabilirler."
 --- !u!222 &208277144
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -607,7 +615,7 @@ GameObject:
   - component: {fileID: 209195084}
   - component: {fileID: 209195085}
   m_Layer: 0
-  m_Name: SerefiyesarniciLink
+  m_Name: "AFYONKALES\u0130Link"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -640,7 +648,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30a7a20dfb4be69498a391ec513118d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mapsURL: https://maps.app.goo.gl/zDhSWE3hrPAb12718
+  mapsURL: https://maps.app.goo.gl/8xrZcMRqDq9kGyVh8
 --- !u!1 &225431711
 GameObject:
   m_ObjectHideFlags: 0
@@ -654,7 +662,7 @@ GameObject:
   - component: {fileID: 225431714}
   - component: {fileID: 225431713}
   m_Layer: 5
-  m_Name: "SerefiyeSarn\u0131c\u0131Image"
+  m_Name: AFYONKALESImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -695,11 +703,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayImage: {fileID: 225431714}
   images:
-  - {fileID: 21300000, guid: 0eb836c16c1babc4aa6b5b82f73201b5, type: 3}
-  - {fileID: 21300000, guid: c23ab0083738e3e4daf2824865f3ba31, type: 3}
-  - {fileID: 21300000, guid: 7455a267bc47290419a47de459be8958, type: 3}
-  - {fileID: 21300000, guid: 43a55a3356321f443adf370f1d067005, type: 3}
-  - {fileID: 21300000, guid: 3a726b4825651aa489863509fc976039, type: 3}
+  - {fileID: 21300000, guid: 73eac71c553005d499c75206df7b6598, type: 3}
+  - {fileID: 21300000, guid: 96d9394ec3a16b241af9ff40a4e6c4fe, type: 3}
+  - {fileID: 21300000, guid: d6e6fc04d269e6648aa990d83157785a, type: 3}
+  - {fileID: 21300000, guid: 13240c8b6b40c6b449030cdc121b8a55, type: 3}
+  - {fileID: 21300000, guid: f3246e3acba76004f96673b493640a3d, type: 3}
 --- !u!114 &225431714
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -786,7 +794,7 @@ GameObject:
   - component: {fileID: 354821252}
   - component: {fileID: 354821251}
   m_Layer: 5
-  m_Name: ayasofyaBaslik
+  m_Name: "ATATURKEV\u0130Baslik"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -844,7 +852,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "1. AYASOFYA ULU CAM\u0130"
+  m_Text: "1. ATAT\xDCRK EV\u0130"
 --- !u!222 &354821252
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1277,7 +1285,7 @@ GameObject:
   - component: {fileID: 554572259}
   - component: {fileID: 554572258}
   m_Layer: 5
-  m_Name: kizKulesiBaslik
+  m_Name: "M\u0130LLEThAMAM\u0130Baslik"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1335,7 +1343,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "2. KIZ KULES\u0130"
+  m_Text: "2. M\u0130LLET HAMAMI"
 --- !u!222 &554572259
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2596,7 +2604,7 @@ GameObject:
   - component: {fileID: 1079813280}
   - component: {fileID: 1079813279}
   m_Layer: 5
-  m_Name: "SerefiyeSarn\u0131c\u0131Map"
+  m_Name: AFYONKALESMap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2697,7 +2705,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6066a1af18251cd4e80f854c6750989d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: bd7cfee7eed78dc429c6dfafab0cd9ac, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2727,7 +2735,7 @@ GameObject:
   - component: {fileID: 1083552315}
   - component: {fileID: 1083552314}
   m_Layer: 5
-  m_Name: 'DolmabahceSarayiBaslik '
+  m_Name: "FR\u0130GVAD\u0130S\u0130Baslik "
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2774,7 +2782,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 78
+    m_FontSize: 67
     m_FontStyle: 3
     m_BestFit: 0
     m_MinSize: 10
@@ -2785,7 +2793,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "4. DOLMABAH\xC7E SARAYI"
+  m_Text: "4. FR\u0130G VAD\u0130S\u0130 TAB\u0130AT PARKI\n"
 --- !u!222 &1083552315
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2807,7 +2815,7 @@ GameObject:
   - component: {fileID: 1241792228}
   - component: {fileID: 1241792227}
   m_Layer: 5
-  m_Name: 'DolmabahceSarayiImage  '
+  m_Name: "FR\u0130GVAD\u0130S\u0130Image  "
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2848,11 +2856,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayImage: {fileID: 1241792228}
   images:
-  - {fileID: 21300000, guid: b6050708ea24e8b4aaa4c3e60f3475b8, type: 3}
-  - {fileID: 21300000, guid: e50fe9383a1d44e46b5a67831ff88b88, type: 3}
-  - {fileID: 21300000, guid: ba5a70c8325a50f42bd114f73eae8970, type: 3}
-  - {fileID: 21300000, guid: 50f18669ab42d3d4e8f9e7ec86f50ddf, type: 3}
-  - {fileID: 21300000, guid: c23a3146a7abed14aa6257257b9c3299, type: 3}
+  - {fileID: 21300000, guid: 7efe1cc8a1f4b184ab5a70bb082a8fd8, type: 3}
+  - {fileID: 21300000, guid: 326b1b80c41a3ca428b4f8b0a3d6c6ed, type: 3}
+  - {fileID: 21300000, guid: 5ce0c6ec9eebd5f45a95008fba8c774c, type: 3}
+  - {fileID: 21300000, guid: 29f2ee57df4901d48b9b2586b81b1d84, type: 3}
+  - {fileID: 21300000, guid: 4863ffc93eb07754cbdaa88126027f5d, type: 3}
 --- !u!114 &1241792228
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2904,7 +2912,7 @@ GameObject:
   - component: {fileID: 1250859408}
   - component: {fileID: 1250859410}
   m_Layer: 5
-  m_Name: AyasofyaMaps
+  m_Name: "ATATURKEV\u0130Maps"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2949,7 +2957,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 527fe59a9afcec240b724879da5d4c7c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e81872e8aa6f8da489477a6619356cb5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3035,7 +3043,7 @@ GameObject:
   - component: {fileID: 1273596512}
   - component: {fileID: 1273596511}
   m_Layer: 5
-  m_Name: 'beylerbeyiAciklama '
+  m_Name: 'CESMELIKONAKAciklama '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3058,7 +3066,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1000, y: 433.59448}
+  m_SizeDelta: {x: 1000, y: 1100.2385}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1273596511
 MonoBehaviour:
@@ -3087,19 +3095,32 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 47
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Beylerbeyi Saray\u0131, \u0130stanbul'un \xDCsk\xFCdar il\xE7esinde bulunan
-    yazl\u0131k bir Osmanl\u0131 saray\u0131yd\u0131. G\xFCn\xFCm\xFCzde m\xFCze
-    olarak kullan\u0131lan Beylerbeyi Saray\u0131, kendisine ba\u011Fl\u0131 \xE7e\u015Fitli
-    yap\u0131 ve di\u011Fer unsurlardan olu\u015Fan bir kompleksin par\xE7as\u0131d\u0131r.
-    Ad\u0131n\u0131, bulundu\u011Fu Beylerbeyi semtinden al\u0131r. Osmanl\u0131
-    Padi\u015Fah\u0131 Abd\xFClaziz'in talimat\u0131yla, 1863-1865 y\u0131llar\u0131nda,
-    Sarkis Balyan'\u0131n mimarl\u0131\u011F\u0131nda in\u015Fa edilmi\u015Ftir."
+  m_Text: "Millet Hamam\u0131, Afyonkarahisar \u015Fehir merkezinde yer alan, Osmanl\u0131
+    d\xF6nemine ait bir hamam olup, tarihi ve k\xFClt\xFCrel a\xE7\u0131dan b\xFCy\xFCk
+    \xF6neme sahiptir. 16. y\xFCzy\u0131lda in\u015Fa edilmi\u015F olan bu hamam,
+    \u015Fehrin en eski ve en bilinen hamamlar\u0131ndan biridir.\n\nMillet Hamam\u0131,
+    Osmanl\u0131 mimarisiyle in\u015Fa edilmi\u015F olup, kare planl\u0131 yap\u0131s\u0131,
+    mermer i\u015F\xE7ilikleri ve kupolardan olu\u015Fan tasar\u0131m\u0131yla dikkat
+    \xE7eker. Hamam\u0131n i\xE7i, s\u0131cakl\u0131k, \u0131l\u0131kl\u0131k ve
+    so\u011Fukluk b\xF6l\xFCmleriyle geleneksel hamam k\xFClt\xFCr\xFCn\xFC yans\u0131tan
+    \u015Fekilde d\xFCzenlenmi\u015Ftir. Ayn\u0131 zamanda, hamam\u0131n i\xE7 k\u0131sm\u0131ndaki
+    s\xFCsl\xFC ta\u015F i\u015F\xE7ilikleri ve mermerler de g\xF6rsel a\xE7\u0131dan
+    olduk\xE7a etkileyicidir.\n\nHamam, \xF6zellikle halk aras\u0131nda sosyal bir
+    bulu\u015Fma noktas\u0131 olarak \xF6nemli bir yer tutmu\u015Ftur. Osmanl\u0131
+    d\xF6neminde g\xFCnl\xFCk ya\u015Fam\u0131n vazge\xE7ilmez bir par\xE7as\u0131
+    olan hamamlar, Millet Hamam\u0131 da dahil olmak \xFCzere bir\xE7ok tarihi hamam,
+    toplumsal etkile\u015Fimin ve k\xFClt\xFCrel geleneklerin ya\u015Fat\u0131ld\u0131\u011F\u0131
+    mek\xE2nlar olarak kullan\u0131lm\u0131\u015Ft\u0131r.\n\nBug\xFCn Millet Hamam\u0131,
+    hem tarihi hem de k\xFClt\xFCrel miras\u0131 ya\u015Fatan \xF6nemli bir yap\u0131
+    olarak, turistler ve yerli halk taraf\u0131ndan s\u0131kl\u0131kla ziyaret edilmektedir.
+    Hem geleneksel hamam deneyimini ya\u015Famak hem de Afyonkarahisar\u2019\u0131n
+    tarihi dokusunu ke\u015Ffetmek isteyenler i\xE7in bu hamam \xF6nemli bir mek\xE2nd\u0131r."
 --- !u!222 &1273596512
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3253,7 +3274,7 @@ GameObject:
   - component: {fileID: 1328878496}
   - component: {fileID: 1328878495}
   m_Layer: 5
-  m_Name: "K\u0131zKulesiMaps"
+  m_Name: "M\u0130LLEThAMAM\u0130Maps"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3354,7 +3375,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a63144f2049bc634dac1406cdf3922bb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fbe0df04652ca6646acb2d092adbf072, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3384,7 +3405,7 @@ GameObject:
   - component: {fileID: 1361934596}
   - component: {fileID: 1361934595}
   m_Layer: 5
-  m_Name: "SerefiyeSarn\u0131c\u0131Baslik "
+  m_Name: 'AFYONKALESBaslik '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3442,7 +3463,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "5. \u015EEREF\u0130YE SARNICI"
+  m_Text: "5. AFYON KALES\u0130"
 --- !u!222 &1361934596
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3585,7 +3606,7 @@ GameObject:
   - component: {fileID: 1487504680}
   - component: {fileID: 1487504681}
   m_Layer: 0
-  m_Name: "k\u0131zkulesiLink"
+  m_Name: "M\u0130LLEThAMAM\u0130Link"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3618,7 +3639,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30a7a20dfb4be69498a391ec513118d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mapsURL: https://maps.app.goo.gl/yN5JpRUq4A4NgVSX9
+  mapsURL: https://maps.app.goo.gl/xr8YmEa7ZVgySjBn9
 --- !u!1 &1490195571
 GameObject:
   m_ObjectHideFlags: 0
@@ -3702,7 +3723,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 925502758}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.11046307
+  m_Size: 0.089603774
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -3837,11 +3858,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayImage: {fileID: 1516510513}
   images:
-  - {fileID: 21300000, guid: 0dbbe2ad5f20de346a9a312e3c8966bd, type: 3}
-  - {fileID: 21300000, guid: 5f7328bab0ee93c40ab826598700995e, type: 3}
-  - {fileID: 21300000, guid: bfef7c47784fcd648bfa5877afc9623b, type: 3}
-  - {fileID: 21300000, guid: 168a8b861e25c6a4da726700ed72b979, type: 3}
-  - {fileID: 21300000, guid: 5e6ea3cfa7e3b384f8fb79ea0d7f7366, type: 3}
+  - {fileID: 21300000, guid: 42f1e5b86455dd54c9b3a18b8de356b3, type: 3}
+  - {fileID: 21300000, guid: 400892ac199fd964eb1291b2465dc2b9, type: 3}
+  - {fileID: 21300000, guid: 50a95b9f643d7334d8ca1241523920b3, type: 3}
+  - {fileID: 21300000, guid: b9e0865b6750cff4e9520d8b324f43d9, type: 3}
+  - {fileID: 21300000, guid: de876f4e645fbd147a10b031c654b80b, type: 3}
 --- !u!1 &1521355632
 GameObject:
   m_ObjectHideFlags: 0
@@ -3855,7 +3876,7 @@ GameObject:
   - component: {fileID: 1521355635}
   - component: {fileID: 1521355634}
   m_Layer: 5
-  m_Name: "K\u0131zKulesImage"
+  m_Name: "M\u0130LLEThAMAM\u0130Image"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3896,11 +3917,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayImage: {fileID: 1521355635}
   images:
-  - {fileID: 21300000, guid: 5e7c5a6403a22a243a77c33023c1b968, type: 3}
-  - {fileID: 21300000, guid: c09d89d9f13f46f4b938c74b43ce402d, type: 3}
-  - {fileID: 21300000, guid: b0d4e7f54523a034fbe40b43a3df33ab, type: 3}
-  - {fileID: 21300000, guid: 21ab220128dbec14eb678d017c801635, type: 3}
-  - {fileID: 21300000, guid: 0e82c059b22bbda4a87a1347726d8527, type: 3}
+  - {fileID: 21300000, guid: 4ef9ab6bd29979549a2b4e9a2e81e978, type: 3}
+  - {fileID: 21300000, guid: 410a496b07cad83479c13b7b86334ea2, type: 3}
+  - {fileID: 21300000, guid: 81643ac8b68287341ab48fbbdffda494, type: 3}
+  - {fileID: 21300000, guid: 6ca0663185df79e4facd878572b61515, type: 3}
 --- !u!114 &1521355635
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4108,7 +4128,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 38.0202, y: -599.99023}
+  m_AnchoredPosition: {x: 38.0202, y: -600}
   m_SizeDelta: {x: 1113.9556, y: 1200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1757376245
@@ -4190,7 +4210,7 @@ GameObject:
   - component: {fileID: 1855585098}
   - component: {fileID: 1855585099}
   m_Layer: 0
-  m_Name: DolmabahceSarayiLink
+  m_Name: "FR\u0130GVAD\u0130S\u0130Link"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4223,7 +4243,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30a7a20dfb4be69498a391ec513118d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mapsURL: https://maps.app.goo.gl/aZiZzkM6UsaF82uT8
+  mapsURL: https://maps.app.goo.gl/WA4wZS8xk4aV1jVz7
 --- !u!1 &1873799173
 GameObject:
   m_ObjectHideFlags: 0
@@ -4405,7 +4425,7 @@ GameObject:
   - component: {fileID: 1906028624}
   - component: {fileID: 1906028623}
   m_Layer: 5
-  m_Name: 'beylerbeyiImage '
+  m_Name: 'CESMELIKONAKImage '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4446,11 +4466,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayImage: {fileID: 1906028624}
   images:
-  - {fileID: 21300000, guid: b3c61c185b4d17344b77744bcccfc98d, type: 3}
-  - {fileID: 21300000, guid: e136ab9e41e6b494d85ad60cc349d6a6, type: 3}
-  - {fileID: 21300000, guid: 33d32d65058032e469db47009426dbe8, type: 3}
-  - {fileID: 21300000, guid: 314999f89dd228a4fb87e6402d1ebe77, type: 3}
-  - {fileID: 21300000, guid: 85d3a2d5cb4b6954ebd8e8f80caca8f3, type: 3}
+  - {fileID: 21300000, guid: 56af996ce527d354cb73770526121f01, type: 3}
+  - {fileID: 21300000, guid: a2928fb849ec17647bd465372bfb3e23, type: 3}
+  - {fileID: 21300000, guid: 0eafafbd8dd0f88459beaa76db83f09c, type: 3}
+  - {fileID: 21300000, guid: 0c2fd3e482712384f8a0772f5040e784, type: 3}
+  - {fileID: 21300000, guid: 39fe9291d12c1de44b93fc3f95e176f4, type: 3}
 --- !u!114 &1906028624
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4500,7 +4520,7 @@ GameObject:
   - component: {fileID: 1944520393}
   - component: {fileID: 1944520394}
   m_Layer: 0
-  m_Name: beylerbeyiLink
+  m_Name: CESMELIKONAKLink
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4533,7 +4553,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30a7a20dfb4be69498a391ec513118d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mapsURL: https://maps.app.goo.gl/oVNnrFvywsxqYvoj9
+  mapsURL: https://maps.app.goo.gl/w3sZZbf1gMngMzUu6
 --- !u!1 &1949851998
 GameObject:
   m_ObjectHideFlags: 0
@@ -4546,7 +4566,7 @@ GameObject:
   - component: {fileID: 1949852001}
   - component: {fileID: 1949852000}
   m_Layer: 5
-  m_Name: ayasofyaAciklama
+  m_Name: "ATATURKEV\u0130Aciklama"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4569,7 +4589,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1000, y: 971.4612}
+  m_SizeDelta: {x: 1000, y: 1347.7307}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1949852000
 MonoBehaviour:
@@ -4598,30 +4618,31 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 47
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Ayasofya (anlam\u0131: Kutsal Bilgelik), resm\xEE ad\u0131yla Ayasofya-i
-    Keb\xEEr C\xE2mi-i \u015Eer\xEEfi, \u0130stanbul'da kiliseden camiye \xE7evrilmi\u015F
-    \xF6nemli bir tarih\xEE yap\u0131d\u0131r. Bizans \u0130mparatoru I. Justinianus
-    taraf\u0131ndan, 532-537 y\u0131llar\u0131 aras\u0131nda \u0130stanbul'un tarih\xEE
-    yar\u0131madas\u0131ndaki eski \u015Fehir merkezine in\u015Fa ettirilmi\u015F
-    bazilika planl\u0131 bir patrik katedrali olmu\u015Ftur. 1453 y\u0131l\u0131nda
-    \u0130stanbul'un Osmanl\u0131lar taraf\u0131ndan fethedilmesinden sonra II. Mehmed
-    taraf\u0131ndan camiye d\xF6n\xFC\u015Ft\xFCr\xFClm\xFC\u015Ft\xFCr. Mustafa
-    Kemal Atat\xFCrk taraf\u0131ndan 1934 y\u0131l\u0131nda yay\u0131mlanan kararname
-    ile tadilat \xE7al\u0131\u015Fmas\u0131na al\u0131nm\u0131\u015F, 1935 y\u0131l\u0131nda
-    Bakanlar Kurulu karar\u0131 ile m\xFCzeye d\xF6n\xFC\u015Ft\xFCr\xFClme karar\u0131
-    al\u0131n\u0131p m\xFCzeye d\xF6n\xFC\u015Ft\xFCr\xFClm\xFC\u015F, kaz\u0131
-    ve tadilat \xE7al\u0131\u015Fmalar\u0131 ba\u015Flat\u0131lm\u0131\u015F ve 1935'ten
-    2020'ye kadar m\xFCze olarak hizmet vermi\u015Ftir. 2020 y\u0131l\u0131nda ise
-    tekrar camiye \xE7evrilmi\u015Ftir. 2024 y\u0131l\u0131nda caminin \xFCst kat\u0131
-    \xFCcretli bir m\xFCze olarak hizmet vermeye ba\u015Flam\u0131\u015Ft\u0131r.
-    B\xF6ylelikle Ayasofya'n\u0131n alt kat\u0131 cami, \xFCst kat\u0131 m\xFCze
-    olmu\u015Ftur."
+  m_Text: "Afyon Atat\xFCrk Evi, T\xFCrkiye Cumhuriyeti\u2019nin kurucusu Mustafa
+    Kemal Atat\xFCrk'\xFCn, 1919 y\u0131l\u0131nda Afyonkarahisar'a yapt\u0131\u011F\u0131
+    bir ziyaret s\u0131ras\u0131nda kald\u0131\u011F\u0131 evdir. \u015Eehir merkezine
+    yak\u0131n bir konumda bulunan bu tarihi yap\u0131, g\xFCn\xFCm\xFCzde Atat\xFCrk
+    Evi M\xFCzesi olarak ziyarete a\xE7\u0131kt\u0131r.\n\nAtat\xFCrk, Afyonkarahisar'\u0131,
+    Mill\xEE M\xFCcadele y\u0131llar\u0131nda s\u0131k\xE7a ziyaret etmi\u015F ve
+    \u015Fehrin stratejik \xF6nemi do\u011Frultusunda \xF6nemli kararlar alm\u0131\u015Ft\u0131r.
+    1919 y\u0131l\u0131nda burada kald\u0131\u011F\u0131 evde, Kurtulu\u015F Sava\u015F\u0131\u2019na
+    ili\u015Fkin baz\u0131 \xF6nemli toplant\u0131lar\u0131n yap\u0131ld\u0131\u011F\u0131na
+    inan\u0131lmaktad\u0131r.\n\nEv, geleneksel Osmanl\u0131 d\xF6nemi ev mimarisi
+    ile in\u015Fa edilmi\u015Ftir ve i\xE7inde Atat\xFCrk'e ait ki\u015Fisel e\u015Fyalar,
+    foto\u011Fraflar ve d\xF6neme ait belgeler sergilenmektedir. Ayr\u0131ca, m\xFCzede
+    Mustafa Kemal Atat\xFCrk\u2019\xFCn Afyonkarahisar\u2019daki izlerini takip etmek
+    ve tarihe tan\u0131kl\u0131k etmek isteyen ziyaret\xE7ilere y\xF6nelik bilgi
+    panolar\u0131 da bulunmaktad\u0131r.\n\nAfyon Atat\xFCrk Evi, hem tarih\xEE bir
+    mekan hem de Atat\xFCrk\u2019\xFCn ya\u015Fam\u0131na ve m\xFCcadelesine dair
+    derinlemesine bilgi edinmek isteyenler i\xE7in \xF6nemli bir ziyaret noktas\u0131d\u0131r.
+    \u015Eehirdeki bu tarihi alan, Afyonkarahisar'\u0131n k\xFClt\xFCrel miras\u0131n\u0131
+    ke\u015Ffetmek isteyen turistler i\xE7in vazge\xE7ilmez bir durakt\u0131r."
 --- !u!222 &1949852001
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4774,7 +4795,7 @@ GameObject:
   - component: {fileID: 1982293828}
   - component: {fileID: 1982293827}
   m_Layer: 5
-  m_Name: beylerBeyiBaslik
+  m_Name: CESMELIKONAKBaslik
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4832,7 +4853,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "3. BEYLER BEY\u0130 SARAYI"
+  m_Text: "3. \xC7E\u015EMEL\u0130 KONAK"
 --- !u!222 &1982293828
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4854,7 +4875,7 @@ GameObject:
   - component: {fileID: 1983826220}
   - component: {fileID: 1983826219}
   m_Layer: 5
-  m_Name: 'beylerbeyiMaps '
+  m_Name: 'CESMELIKONAKMaps '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4955,7 +4976,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a23af630cf9fdbf418062b25917c366d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ab28e83326b992a42a31e69b3306a9b6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5060,7 +5081,7 @@ GameObject:
   - component: {fileID: 1999615642}
   - component: {fileID: 1999615641}
   m_Layer: 5
-  m_Name: 'DolmabahceAciklama  '
+  m_Name: "FR\u0130GVAD\u0130S\u0130Aciklama  "
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5083,7 +5104,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1000, y: 560.8444}
+  m_SizeDelta: {x: 1000, y: 1419.2002}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1999615641
 MonoBehaviour:
@@ -5112,20 +5133,34 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 47
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Dolmabah\xE7e Saray\u0131, \u0130stanbul, Be\u015Fikta\u015F'ta, Kabata\u015F'tan
-    Be\u015Fikta\u015F'a uzanan Dolmabah\xE7e Caddesi'yle \u0130stanbul Bo\u011Faz\u0131
-    aras\u0131nda, 250.000 m\xB2'lik bir alan \xFCzerinde bulunan Osmanl\u0131 saray\u0131.
-    Marmara Denizi'nden Bo\u011Fazi\xE7i'ne deniz yoluyla giri\u015Fte sol k\u0131y\u0131da,
-    \xDCsk\xFCdar ve Kuzguncuk'un kar\u015F\u0131s\u0131nda yer al\u0131r. Sultan
-    Abd\xFClmecid taraf\u0131ndan in\u015Fa ettirilen saray\u0131n yap\u0131m\u0131
-    1843 y\u0131l\u0131nda ba\u015Flay\u0131p 1856 y\u0131l\u0131nda bitirilmi\u015Ftir.
-    G\xFCn\xFCm\xFCzde m\xFCze olarak kullan\u0131lmaktad\u0131r."
+  m_Text: "Frig Vadisi, Afyonkarahisar il s\u0131n\u0131rlar\u0131nda yer alan ve
+    T\xFCrkiye'nin en \xF6nemli do\u011Fal ve arkeolojik alanlar\u0131ndan biri olan
+    e\u015Fsiz bir b\xF6lgedir. Frigya Krall\u0131\u011F\u0131\u2019na ait olan bu
+    vadi, tarih\xEE kal\u0131nt\u0131lar\u0131, kaya mezarlar\u0131 ve Frig kaya
+    yap\u0131lar\u0131yla \xFCnl\xFCd\xFCr.\n\nFrig Vadisi, Afyonkarahisar il s\u0131n\u0131r\u0131nda
+    yer alan \xC7ay ve Emirda\u011F il\xE7eleri aras\u0131nda uzan\u0131r ve b\xF6lgenin
+    tarihi zenginliklerini g\xFCn y\xFCz\xFCne \xE7\u0131karan bir\xE7ok \xF6nemli
+    yap\u0131ya ev sahipli\u011Fi yapmaktad\u0131r. Frigler, bu b\xF6lgede M\xD6
+    8. y\xFCzy\u0131ldan M\xD6 6. y\xFCzy\u0131la kadar h\xFCk\xFCm s\xFCrm\xFC\u015F
+    ve vadinin kayalar\u0131na, mezarlar\u0131na ve tap\u0131naklar\u0131na yans\u0131yan
+    izler b\u0131rakm\u0131\u015Ft\u0131r.\n\nVadideki en dikkat \xE7ekici yap\u0131lar,
+    kayalara oyulmu\u015F mezarlar, tap\u0131naklar ve Frig tarz\u0131 kaya duvarlar\u0131d\u0131r.
+    Bu kaya mezarlar\u0131, Frig sanat\u0131n\u0131n en \xF6nemli \xF6rneklerini
+    sunar. Ayr\u0131ca, Midas\u2019\u0131n mezar\u0131 olarak bilinen Midas an\u0131t
+    mezar\u0131 da vadinin en bilinen yap\u0131lar\u0131ndan biridir ve Frig k\xFClt\xFCr\xFCn\xFC
+    ara\u015Ft\u0131ran tarih\xE7iler i\xE7in b\xFCy\xFCk bir \xF6neme sahiptir.\n\nBunun
+    yan\u0131 s\u0131ra, Frig Vadisi, zengin flora ve faunaya sahip olup, do\u011Fa
+    y\xFCr\xFCy\xFC\u015Fleri, foto\u011Fraf\xE7\u0131l\u0131k ve do\u011Fa severler
+    i\xE7in ke\u015Fifler yapabilecekleri muazzam bir aland\u0131r. Ayr\u0131ca b\xF6lge,
+    her y\u0131l pek \xE7ok turist ve do\u011Fa tutkunu taraf\u0131ndan ziyaret edilmektedir.\n\nAfyonkarahisar\u2019daki
+    Frig Vadisi, hem tarihsel hem de do\u011Fal zenginlikleri ile hem arkeoloji merakl\u0131lar\u0131
+    hem de do\u011Fa severler i\xE7in \xF6nemli bir ke\u015Fif noktas\u0131d\u0131r."
 --- !u!222 &1999615642
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5381,7 +5416,7 @@ GameObject:
   - component: {fileID: 2058605099}
   - component: {fileID: 2058605098}
   m_Layer: 5
-  m_Name: "k\u0131zkulesiAciklama"
+  m_Name: "M\u0130LLEThAMAM\u0130Aciklama"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5404,7 +5439,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1000, y: 1229.258}
+  m_SizeDelta: {x: 1000, y: 1449.4016}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2058605098
 MonoBehaviour:
@@ -5433,27 +5468,32 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 47
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Kyzikos'taki deniz zaferinden sonra, M\xD6 408'de Atinal\u0131 general
-    Alkibiadis, muhtemelen Karadeniz'den gelen gemiler i\xE7in \xDCsk\xFCdar'\u0131n
-    \xF6n\xFCndeki k\xFC\xE7\xFCk bir kaya \xFCzerine \xF6zel bir istasyon in\u015Fa
-    etti.\n\r\n\xDCsk\xFCdar'\u0131n sembol\xFC h\xE2line gelen kule, \xDCsk\xFCdar\u2019da
-    Bizans devrinden kalan tek eserdir. M\xD6 24 y\u0131llar\u0131na kadar uzanan
-    bir ge\xE7mi\u015Fe sahiptir.\r\n\r\n1110'da Bizans \u0130mparatoru I. Aleksios,
-    ta\u015F duvarla korunan ah\u015Fap bir kule in\u015Fa etti.[2] Kuleden Konstantinopolis'teki
-    Mangana semtinde (tarih\xEE yar\u0131madada bir mahalle) dikilmi\u015F ba\u015Fka
-    bir kuleye uzanan bir demir zincir gerildi.[2] Adac\u0131k daha sonra su alt\u0131
-    kal\u0131nt\u0131lar\u0131 h\xE2l\xE2 g\xF6r\xFClebilen bir savunma duvar\u0131
-    ile Asya k\u0131y\u0131s\u0131na ba\u011Fland\u0131. 1453'te \u0130stanbul'un
-    Osmanl\u0131lar taraf\u0131ndan fethi s\u0131ras\u0131nda, kulede Venedikli Gabriele
-    Trevisano taraf\u0131ndan y\xF6netilen bir Bizans garnizonu bulunuyordu.[2] Daha
-    sonra yap\u0131, Fatih Sultan Mehmed d\xF6neminde Osmanl\u0131 T\xFCrkleri taraf\u0131ndan
-    g\xF6zetleme kulesi olarak kullan\u0131lm\u0131\u015Ft\u0131r."
+  m_Text: "Millet Hamam\u0131, Afyonkarahisar \u015Fehir merkezinde yer alan, Osmanl\u0131
+    d\xF6nemine ait bir hamam olup, tarihi ve k\xFClt\xFCrel a\xE7\u0131dan b\xFCy\xFCk
+    \xF6neme sahiptir. 16. y\xFCzy\u0131lda in\u015Fa edilmi\u015F olan bu hamam,
+    \u015Fehrin en eski ve en bilinen hamamlar\u0131ndan biridir.\n\nMillet Hamam\u0131,
+    Osmanl\u0131 mimarisiyle in\u015Fa edilmi\u015F olup, kare planl\u0131 yap\u0131s\u0131,
+    mermer i\u015F\xE7ilikleri ve kupolardan olu\u015Fan tasar\u0131m\u0131yla dikkat
+    \xE7eker. Hamam\u0131n i\xE7i, s\u0131cakl\u0131k, \u0131l\u0131kl\u0131k ve
+    so\u011Fukluk b\xF6l\xFCmleriyle geleneksel hamam k\xFClt\xFCr\xFCn\xFC yans\u0131tan
+    \u015Fekilde d\xFCzenlenmi\u015Ftir. Ayn\u0131 zamanda, hamam\u0131n i\xE7 k\u0131sm\u0131ndaki
+    s\xFCsl\xFC ta\u015F i\u015F\xE7ilikleri ve mermerler de g\xF6rsel a\xE7\u0131dan
+    olduk\xE7a etkileyicidir.\n\nHamam, \xF6zellikle halk aras\u0131nda sosyal bir
+    bulu\u015Fma noktas\u0131 olarak \xF6nemli bir yer tutmu\u015Ftur. Osmanl\u0131
+    d\xF6neminde g\xFCnl\xFCk ya\u015Fam\u0131n vazge\xE7ilmez bir par\xE7as\u0131
+    olan hamamlar, Millet Hamam\u0131 da dahil olmak \xFCzere bir\xE7ok tarihi hamam,
+    toplumsal etkile\u015Fimin ve k\xFClt\xFCrel geleneklerin ya\u015Fat\u0131ld\u0131\u011F\u0131
+    mek\xE2nlar olarak kullan\u0131lm\u0131\u015Ft\u0131r.\n\nBug\xFCn Millet Hamam\u0131,
+    hem tarihi hem de k\xFClt\xFCrel miras\u0131 ya\u015Fatan \xF6nemli bir yap\u0131
+    olarak, turistler ve yerli halk taraf\u0131ndan s\u0131kl\u0131kla ziyaret edilmektedir.
+    Hem geleneksel hamam deneyimini ya\u015Famak hem de Afyonkarahisar\u2019\u0131n
+    tarihi dokusunu ke\u015Ffetmek isteyenler i\xE7in bu hamam \xF6nemli bir mek\xE2nd\u0131r."
 --- !u!222 &2058605099
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -265,7 +265,7 @@ GameObject:
   - component: {fileID: 26225443}
   - component: {fileID: 26225442}
   m_Layer: 0
-  m_Name: ayasofyaLink
+  m_Name: "Kalei\xE7iLink"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -283,7 +283,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30a7a20dfb4be69498a391ec513118d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mapsURL: https://maps.app.goo.gl/uoTjZhgF7kzSfr9m9
+  mapsURL: https://maps.app.goo.gl/3D96NjdLdSo5vxfV8
 --- !u!4 &26225443
 Transform:
   m_ObjectHideFlags: 0
@@ -387,7 +387,7 @@ GameObject:
   - component: {fileID: 70739369}
   - component: {fileID: 70739368}
   m_Layer: 5
-  m_Name: 'DolmabahceSarayiMaps  '
+  m_Name: 'LOWERDUDENWATERFALLSMaps  '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -488,7 +488,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 40ea79d3fabcad348946a38b021d0391, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 20c27d971ccc3d148bb9c77c5023faf7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -518,7 +518,7 @@ GameObject:
   - component: {fileID: 208277144}
   - component: {fileID: 208277143}
   m_Layer: 5
-  m_Name: "SerefiyeSarniciAc\u0131klama"
+  m_Name: "TERMESSOSKAPLICALARAc\u0131klama"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -541,7 +541,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1000, y: 1002.1712}
+  m_SizeDelta: {x: 1000, y: 816.1323}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &208277143
 MonoBehaviour:
@@ -570,24 +570,23 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 47
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u015Eerefiye Sarn\u0131c\u0131 veya Theodosius Sarn\u0131c\u0131 (Yunanca:
-    \u039A\u03B9\u03BD\u03C3\u03C4\u03AD\u03C1\u03BD\u03B1 \u0398\u03B5\u03BF\u03B4\u03BF\u03C3\u03AF\u03BF\u03C5
-    Kisterna Theodosiou) \u0130stanbul'un Fatih il\xE7esinde, Tarihi Yar\u0131mada\u2019da
-    bulunan pek \xE7ok Bizans D\xF6nemi sarn\u0131c\u0131ndan biridir. Divan Yolu
-    Caddesi, Piyer Loti Caddesi, Boyac\u0131 Ahmet Sokak ve Dostluk Yurdu Sokak\u2019\u0131n
-    s\u0131n\u0131rland\u0131rd\u0131\u011F\u0131 yap\u0131 adas\u0131n\u0131n g\xFCneyinde
-    yer al\u0131r.\r\n\r\nBizans D\xF6neminde Konstantinopolis\u2019in tarihsel topografyas\u0131
-    g\xF6z \xF6n\xFCnde bulunduruldu\u011Funda yap\u0131, Antik Mese yolunun g\xFCneyinde,
-    Konstantin Forumu'nun g\xFCneydo\u011Fusunda, Binbirdirek Sarn\u0131c\u0131'n\u0131n
-    bat\u0131s\u0131nda bulunmaktad\u0131r. Mese \xFCzerindeki isale hatt\u0131ndan
-    faydalanabilecek sarn\u0131\xE7lar aras\u0131ndad\u0131r.\n\r\nYap\u0131 ilk
-    olarak 1893\u2019de Forscheimer ve Strzygowski taraf\u0131ndan belgelenmi\u015Ftir."
+  m_Text: "Termessos Kapl\u0131calar\u0131, Antalya\u2019n\u0131n Termessos Antik
+    Kenti yak\u0131nlar\u0131nda yer alan, tarihi ve do\u011Fal zenginlikleri bir
+    arada sunan bir b\xF6lgedir. Antik d\xF6nemlerden bu yana \u015Fifa kayna\u011F\u0131
+    olarak kullan\u0131lan bu kapl\u0131calar, mineralli s\u0131cak sular\u0131 ile
+    \xFCnl\xFCd\xFCr.\n\nKapl\u0131ca sular\u0131, cilt hastal\u0131klar\u0131, romatizmal
+    rahats\u0131zl\u0131klar ve kas a\u011Fr\u0131lar\u0131 gibi sa\u011Fl\u0131k
+    sorunlar\u0131na iyi geldi\u011Fi d\xFC\u015F\xFCn\xFClen mineraller i\xE7erir.
+    Ziyaret\xE7iler, hem antik kal\u0131nt\u0131lar aras\u0131nda tarihi bir yolculu\u011Fa
+    \xE7\u0131kabilir hem de kapl\u0131ca sular\u0131nda dinlenerek \u015Fifa bulabilirler.\n\nTermessos
+    Kapl\u0131calar\u0131, do\u011Fa ve tarih tutkunlar\u0131 i\xE7in benzersiz bir
+    deneyim sunan, huzur dolu bir destinasyondur."
 --- !u!222 &208277144
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -607,7 +606,7 @@ GameObject:
   - component: {fileID: 209195084}
   - component: {fileID: 209195085}
   m_Layer: 0
-  m_Name: SerefiyesarniciLink
+  m_Name: TERMESSOSKAPLICALARLink
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -640,7 +639,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30a7a20dfb4be69498a391ec513118d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mapsURL: https://maps.app.goo.gl/zDhSWE3hrPAb12718
+  mapsURL: https://maps.app.goo.gl/Kn2u9Swrq6nqSY6D7
 --- !u!1 &225431711
 GameObject:
   m_ObjectHideFlags: 0
@@ -654,7 +653,7 @@ GameObject:
   - component: {fileID: 225431714}
   - component: {fileID: 225431713}
   m_Layer: 5
-  m_Name: "SerefiyeSarn\u0131c\u0131Image"
+  m_Name: TERMESSOSKAPLICALARImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -695,11 +694,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayImage: {fileID: 225431714}
   images:
-  - {fileID: 21300000, guid: 0eb836c16c1babc4aa6b5b82f73201b5, type: 3}
-  - {fileID: 21300000, guid: c23ab0083738e3e4daf2824865f3ba31, type: 3}
-  - {fileID: 21300000, guid: 7455a267bc47290419a47de459be8958, type: 3}
-  - {fileID: 21300000, guid: 43a55a3356321f443adf370f1d067005, type: 3}
-  - {fileID: 21300000, guid: 3a726b4825651aa489863509fc976039, type: 3}
+  - {fileID: 21300000, guid: a66e8aae5925ca24f83729df6ba83360, type: 3}
+  - {fileID: 21300000, guid: d79b5ddd0b29ad74a82735b5e797bdcb, type: 3}
+  - {fileID: 21300000, guid: c8fbd62ca793af646860cda72ac8b06f, type: 3}
+  - {fileID: 21300000, guid: 40a20df1b3797c545aacd0cc57b2104c, type: 3}
+  - {fileID: 21300000, guid: 2022313d340c7f84d98b2c8470a3f376, type: 3}
 --- !u!114 &225431714
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -786,7 +785,7 @@ GameObject:
   - component: {fileID: 354821252}
   - component: {fileID: 354821251}
   m_Layer: 5
-  m_Name: ayasofyaBaslik
+  m_Name: "Kalei\xE7iBaslik"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -844,7 +843,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "1. AYASOFYA ULU CAM\u0130"
+  m_Text: "1. ANTALYA KALE\u0130\xC7\u0130"
 --- !u!222 &354821252
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1277,7 +1276,7 @@ GameObject:
   - component: {fileID: 554572259}
   - component: {fileID: 554572258}
   m_Layer: 5
-  m_Name: kizKulesiBaslik
+  m_Name: SAPADEREKANYONUBaslik
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1335,7 +1334,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "2. KIZ KULES\u0130"
+  m_Text: 2. SAPADERE KANYONU
 --- !u!222 &554572259
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2596,7 +2595,7 @@ GameObject:
   - component: {fileID: 1079813280}
   - component: {fileID: 1079813279}
   m_Layer: 5
-  m_Name: "SerefiyeSarn\u0131c\u0131Map"
+  m_Name: TERMESSOSKAPLICALARMap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2697,7 +2696,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6066a1af18251cd4e80f854c6750989d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 32853a71b17509c4e8e2c7351a0825d2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2727,7 +2726,7 @@ GameObject:
   - component: {fileID: 1083552315}
   - component: {fileID: 1083552314}
   m_Layer: 5
-  m_Name: 'DolmabahceSarayiBaslik '
+  m_Name: 'LOWERDUDENWATERFALLSiBaslik '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2774,7 +2773,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 78
+    m_FontSize: 66
     m_FontStyle: 3
     m_BestFit: 0
     m_MinSize: 10
@@ -2785,7 +2784,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "4. DOLMABAH\xC7E SARAYI"
+  m_Text: 4. LOWER DUDEN WATERFALL
 --- !u!222 &1083552315
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2807,7 +2806,7 @@ GameObject:
   - component: {fileID: 1241792228}
   - component: {fileID: 1241792227}
   m_Layer: 5
-  m_Name: 'DolmabahceSarayiImage  '
+  m_Name: 'LOWERDUDENWATERFALLSImage  '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2848,11 +2847,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayImage: {fileID: 1241792228}
   images:
-  - {fileID: 21300000, guid: b6050708ea24e8b4aaa4c3e60f3475b8, type: 3}
-  - {fileID: 21300000, guid: e50fe9383a1d44e46b5a67831ff88b88, type: 3}
-  - {fileID: 21300000, guid: ba5a70c8325a50f42bd114f73eae8970, type: 3}
-  - {fileID: 21300000, guid: 50f18669ab42d3d4e8f9e7ec86f50ddf, type: 3}
-  - {fileID: 21300000, guid: c23a3146a7abed14aa6257257b9c3299, type: 3}
+  - {fileID: 21300000, guid: 825b5a765b8d3f54399cce6bad6320ee, type: 3}
+  - {fileID: 21300000, guid: cf8a5cc75b4f4374d832d782b3b9b3ab, type: 3}
+  - {fileID: 21300000, guid: 892362dbb613fa740b7fc6d430a54c2e, type: 3}
+  - {fileID: 21300000, guid: d80791c4bd48f334abe77ed518f297b4, type: 3}
+  - {fileID: 21300000, guid: edbd79343f96d8a4b8b11083f388a259, type: 3}
 --- !u!114 &1241792228
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2904,7 +2903,7 @@ GameObject:
   - component: {fileID: 1250859408}
   - component: {fileID: 1250859410}
   m_Layer: 5
-  m_Name: AyasofyaMaps
+  m_Name: "Kalei\xE7iMaps"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2949,7 +2948,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 527fe59a9afcec240b724879da5d4c7c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5853d08b77f0320449473253eb3aed44, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3035,7 +3034,7 @@ GameObject:
   - component: {fileID: 1273596512}
   - component: {fileID: 1273596511}
   m_Layer: 5
-  m_Name: 'beylerbeyiAciklama '
+  m_Name: 'AKVARYUMAciklama '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3058,7 +3057,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1000, y: 433.59448}
+  m_SizeDelta: {x: 1000, y: 974.3352}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1273596511
 MonoBehaviour:
@@ -3087,19 +3086,23 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 47
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Beylerbeyi Saray\u0131, \u0130stanbul'un \xDCsk\xFCdar il\xE7esinde bulunan
-    yazl\u0131k bir Osmanl\u0131 saray\u0131yd\u0131. G\xFCn\xFCm\xFCzde m\xFCze
-    olarak kullan\u0131lan Beylerbeyi Saray\u0131, kendisine ba\u011Fl\u0131 \xE7e\u015Fitli
-    yap\u0131 ve di\u011Fer unsurlardan olu\u015Fan bir kompleksin par\xE7as\u0131d\u0131r.
-    Ad\u0131n\u0131, bulundu\u011Fu Beylerbeyi semtinden al\u0131r. Osmanl\u0131
-    Padi\u015Fah\u0131 Abd\xFClaziz'in talimat\u0131yla, 1863-1865 y\u0131llar\u0131nda,
-    Sarkis Balyan'\u0131n mimarl\u0131\u011F\u0131nda in\u015Fa edilmi\u015Ftir."
+  m_Text: "Antalya Akvaryumu, Antalya'n\u0131n Konyaalt\u0131 il\xE7esinde yer alan,
+    d\xFCnyan\u0131n en b\xFCy\xFCk t\xFCnel akvaryumlar\u0131ndan birine sahip olan
+    bir e\u011Flence ve e\u011Fitim merkezidir.\n\nYakla\u015F\u0131k 131 metre uzunlu\u011Funda
+    ve 3 metre geni\u015Fli\u011Findeki dev t\xFCnel akvaryum, ziyaret\xE7ilerine
+    su alt\u0131 d\xFCnyas\u0131n\u0131 ke\u015Ffetme f\u0131rsat\u0131 sunar. Akvaryumda,
+    binlerce deniz canl\u0131s\u0131, tropikal bal\u0131klar ve farkl\u0131 ekosistemleri
+    temsil eden tematik akvaryumlar yer al\u0131r.\n\nAyr\u0131ca, komplekste Kar
+    D\xFCnyas\u0131 ve Buz M\xFCzesi, WildPark (Tropikal S\xFCr\xFCngen Evi) ve 3D
+    sinema deneyimi gibi farkl\u0131 e\u011Flence alanlar\u0131 da bulunur.\n\nAntalya
+    Akvaryumu, hem e\u011Fitici hem de e\u011Flenceli bir deneyim sunarak her ya\u015Ftan
+    ziyaret\xE7i i\xE7in pop\xFCler bir destinasyondur."
 --- !u!222 &1273596512
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3253,7 +3256,7 @@ GameObject:
   - component: {fileID: 1328878496}
   - component: {fileID: 1328878495}
   m_Layer: 5
-  m_Name: "K\u0131zKulesiMaps"
+  m_Name: SAPADEREKANYONUMaps
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3354,7 +3357,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a63144f2049bc634dac1406cdf3922bb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6c6947d252d9c5d4cb23e68aaa915c83, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3384,7 +3387,7 @@ GameObject:
   - component: {fileID: 1361934596}
   - component: {fileID: 1361934595}
   m_Layer: 5
-  m_Name: "SerefiyeSarn\u0131c\u0131Baslik "
+  m_Name: 'TERMESSOSKAPLICALARBaslik '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3431,7 +3434,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 78
+    m_FontSize: 68
     m_FontStyle: 3
     m_BestFit: 0
     m_MinSize: 10
@@ -3442,7 +3445,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "5. \u015EEREF\u0130YE SARNICI"
+  m_Text: 5. TERMOSSOS KAPLICALARI
 --- !u!222 &1361934596
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3585,7 +3588,7 @@ GameObject:
   - component: {fileID: 1487504680}
   - component: {fileID: 1487504681}
   m_Layer: 0
-  m_Name: "k\u0131zkulesiLink"
+  m_Name: SAPADEREKANYONULink
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3618,7 +3621,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30a7a20dfb4be69498a391ec513118d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mapsURL: https://maps.app.goo.gl/yN5JpRUq4A4NgVSX9
+  mapsURL: https://maps.app.goo.gl/Dyf8AwQfCXbkMu2B6
 --- !u!1 &1490195571
 GameObject:
   m_ObjectHideFlags: 0
@@ -3702,7 +3705,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 925502758}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.11046307
+  m_Size: 0.1095339
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -3837,11 +3840,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayImage: {fileID: 1516510513}
   images:
-  - {fileID: 21300000, guid: 0dbbe2ad5f20de346a9a312e3c8966bd, type: 3}
-  - {fileID: 21300000, guid: 5f7328bab0ee93c40ab826598700995e, type: 3}
-  - {fileID: 21300000, guid: bfef7c47784fcd648bfa5877afc9623b, type: 3}
-  - {fileID: 21300000, guid: 168a8b861e25c6a4da726700ed72b979, type: 3}
-  - {fileID: 21300000, guid: 5e6ea3cfa7e3b384f8fb79ea0d7f7366, type: 3}
+  - {fileID: 21300000, guid: dd466065f4dc27f498b7e811f7a0d4a7, type: 3}
+  - {fileID: 21300000, guid: 23e14219d1e8e084596a226b9ab4a9e1, type: 3}
+  - {fileID: 21300000, guid: 0e5a0e33a56a81848a88d780757de7d1, type: 3}
+  - {fileID: 21300000, guid: a9361f346950a2a49a19580dd3f93f7a, type: 3}
+  - {fileID: 21300000, guid: a57d44137ec2fc84e99d23cffb31231d, type: 3}
 --- !u!1 &1521355632
 GameObject:
   m_ObjectHideFlags: 0
@@ -3855,7 +3858,7 @@ GameObject:
   - component: {fileID: 1521355635}
   - component: {fileID: 1521355634}
   m_Layer: 5
-  m_Name: "K\u0131zKulesImage"
+  m_Name: SAPADEREKANYONUImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3896,11 +3899,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayImage: {fileID: 1521355635}
   images:
-  - {fileID: 21300000, guid: 5e7c5a6403a22a243a77c33023c1b968, type: 3}
-  - {fileID: 21300000, guid: c09d89d9f13f46f4b938c74b43ce402d, type: 3}
-  - {fileID: 21300000, guid: b0d4e7f54523a034fbe40b43a3df33ab, type: 3}
-  - {fileID: 21300000, guid: 21ab220128dbec14eb678d017c801635, type: 3}
-  - {fileID: 21300000, guid: 0e82c059b22bbda4a87a1347726d8527, type: 3}
+  - {fileID: 21300000, guid: 6ccc30d08e7793341b60fad4a608f2f1, type: 3}
+  - {fileID: 21300000, guid: e5faef2c637a2bd48b7e72483ca5b279, type: 3}
+  - {fileID: 21300000, guid: 14f087f6f9b6ce34d9528121eebea13d, type: 3}
+  - {fileID: 21300000, guid: d95a1ed1695a331499015d460d821018, type: 3}
+  - {fileID: 21300000, guid: d9cbc659dc3bb0440a0ab6cbabf81301, type: 3}
 --- !u!114 &1521355635
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4108,7 +4111,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 38.0202, y: -599.99023}
+  m_AnchoredPosition: {x: 43, y: -599.9903}
   m_SizeDelta: {x: 1113.9556, y: 1200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1757376245
@@ -4190,7 +4193,7 @@ GameObject:
   - component: {fileID: 1855585098}
   - component: {fileID: 1855585099}
   m_Layer: 0
-  m_Name: DolmabahceSarayiLink
+  m_Name: LOWERDUDENWATERFALLSLink
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4223,7 +4226,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30a7a20dfb4be69498a391ec513118d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mapsURL: https://maps.app.goo.gl/aZiZzkM6UsaF82uT8
+  mapsURL: https://maps.app.goo.gl/n6iwFCy4ATx9ca5P9
 --- !u!1 &1873799173
 GameObject:
   m_ObjectHideFlags: 0
@@ -4405,7 +4408,7 @@ GameObject:
   - component: {fileID: 1906028624}
   - component: {fileID: 1906028623}
   m_Layer: 5
-  m_Name: 'beylerbeyiImage '
+  m_Name: 'AKVARYUMImage '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4446,11 +4449,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayImage: {fileID: 1906028624}
   images:
-  - {fileID: 21300000, guid: b3c61c185b4d17344b77744bcccfc98d, type: 3}
-  - {fileID: 21300000, guid: e136ab9e41e6b494d85ad60cc349d6a6, type: 3}
-  - {fileID: 21300000, guid: 33d32d65058032e469db47009426dbe8, type: 3}
-  - {fileID: 21300000, guid: 314999f89dd228a4fb87e6402d1ebe77, type: 3}
-  - {fileID: 21300000, guid: 85d3a2d5cb4b6954ebd8e8f80caca8f3, type: 3}
+  - {fileID: 21300000, guid: 8a849462692d8e1468b4d1c7d27d06e2, type: 3}
+  - {fileID: 21300000, guid: 65e6db63031d1e24bb471fdae7b343a3, type: 3}
+  - {fileID: 21300000, guid: 0cad2b5080e7b174c876b73c40cf98da, type: 3}
+  - {fileID: 21300000, guid: 8e7e8a36645e15d4fb8bcbf8f3cd569b, type: 3}
+  - {fileID: 21300000, guid: 5223e8fd9eed22d41ab8dff84f99c16a, type: 3}
+  - {fileID: 21300000, guid: 177d2cb01e069694fbd557a0b7af22b0, type: 3}
 --- !u!114 &1906028624
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4500,7 +4504,7 @@ GameObject:
   - component: {fileID: 1944520393}
   - component: {fileID: 1944520394}
   m_Layer: 0
-  m_Name: beylerbeyiLink
+  m_Name: AKVARYUMLink
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4533,7 +4537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30a7a20dfb4be69498a391ec513118d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mapsURL: https://maps.app.goo.gl/oVNnrFvywsxqYvoj9
+  mapsURL: https://maps.app.goo.gl/UhHtwDqkDL2qiNbR8
 --- !u!1 &1949851998
 GameObject:
   m_ObjectHideFlags: 0
@@ -4546,7 +4550,7 @@ GameObject:
   - component: {fileID: 1949852001}
   - component: {fileID: 1949852000}
   m_Layer: 5
-  m_Name: ayasofyaAciklama
+  m_Name: "Kalei\xE7iAciklama"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4569,7 +4573,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1000, y: 971.4612}
+  m_SizeDelta: {x: 1000, y: 834.0352}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1949852000
 MonoBehaviour:
@@ -4598,30 +4602,23 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 47
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Ayasofya (anlam\u0131: Kutsal Bilgelik), resm\xEE ad\u0131yla Ayasofya-i
-    Keb\xEEr C\xE2mi-i \u015Eer\xEEfi, \u0130stanbul'da kiliseden camiye \xE7evrilmi\u015F
-    \xF6nemli bir tarih\xEE yap\u0131d\u0131r. Bizans \u0130mparatoru I. Justinianus
-    taraf\u0131ndan, 532-537 y\u0131llar\u0131 aras\u0131nda \u0130stanbul'un tarih\xEE
-    yar\u0131madas\u0131ndaki eski \u015Fehir merkezine in\u015Fa ettirilmi\u015F
-    bazilika planl\u0131 bir patrik katedrali olmu\u015Ftur. 1453 y\u0131l\u0131nda
-    \u0130stanbul'un Osmanl\u0131lar taraf\u0131ndan fethedilmesinden sonra II. Mehmed
-    taraf\u0131ndan camiye d\xF6n\xFC\u015Ft\xFCr\xFClm\xFC\u015Ft\xFCr. Mustafa
-    Kemal Atat\xFCrk taraf\u0131ndan 1934 y\u0131l\u0131nda yay\u0131mlanan kararname
-    ile tadilat \xE7al\u0131\u015Fmas\u0131na al\u0131nm\u0131\u015F, 1935 y\u0131l\u0131nda
-    Bakanlar Kurulu karar\u0131 ile m\xFCzeye d\xF6n\xFC\u015Ft\xFCr\xFClme karar\u0131
-    al\u0131n\u0131p m\xFCzeye d\xF6n\xFC\u015Ft\xFCr\xFClm\xFC\u015F, kaz\u0131
-    ve tadilat \xE7al\u0131\u015Fmalar\u0131 ba\u015Flat\u0131lm\u0131\u015F ve 1935'ten
-    2020'ye kadar m\xFCze olarak hizmet vermi\u015Ftir. 2020 y\u0131l\u0131nda ise
-    tekrar camiye \xE7evrilmi\u015Ftir. 2024 y\u0131l\u0131nda caminin \xFCst kat\u0131
-    \xFCcretli bir m\xFCze olarak hizmet vermeye ba\u015Flam\u0131\u015Ft\u0131r.
-    B\xF6ylelikle Ayasofya'n\u0131n alt kat\u0131 cami, \xFCst kat\u0131 m\xFCze
-    olmu\u015Ftur."
+  m_Text: "Kalei\xE7i, Antalya\u2019n\u0131n tarihi merkezi ve en eski yerle\u015Fim
+    b\xF6lgelerinden biridir. Helenistik, Roma, Bizans, Sel\xE7uklu ve Osmanl\u0131
+    d\xF6nemlerinin izlerini ta\u015F\u0131yan bu b\xF6lge, dar sokaklar\u0131, tarihi
+    konaklar\u0131 ve deniz manzaral\u0131 surlar\u0131yla \xFCnl\xFCd\xFCr.\n\nKalei\xE7i\u2019nde
+    Hadrian Kap\u0131s\u0131, Yivli Minare Camii, Kesik Minare Camii ve H\u0131d\u0131rl\u0131k
+    Kulesi gibi \xF6nemli tarihi yap\u0131lar yer al\u0131r. Ayr\u0131ca, liman b\xF6lgesi
+    e\u015Fsiz bir Akdeniz manzaras\u0131 sunar.\n\nBug\xFCn Kalei\xE7i, butik otelleri,
+    kafeleri, restoranlar\u0131 ve hediyelik e\u015Fya d\xFCkk\xE2nlar\u0131yla turistlerin
+    u\u011Frak noktalar\u0131ndan biridir. Tarihi dokusu ve canl\u0131 atmosferi
+    ile Antalya\u2019n\u0131n en \xF6nemli cazibe merkezlerinden biri olarak kabul
+    edilir."
 --- !u!222 &1949852001
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4774,7 +4771,7 @@ GameObject:
   - component: {fileID: 1982293828}
   - component: {fileID: 1982293827}
   m_Layer: 5
-  m_Name: beylerBeyiBaslik
+  m_Name: AKVARYUMBaslik
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4832,7 +4829,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "3. BEYLER BEY\u0130 SARAYI"
+  m_Text: 3. ANTALYA AKVARYUMU
 --- !u!222 &1982293828
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4854,7 +4851,7 @@ GameObject:
   - component: {fileID: 1983826220}
   - component: {fileID: 1983826219}
   m_Layer: 5
-  m_Name: 'beylerbeyiMaps '
+  m_Name: 'AKVARYUMMaps '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4955,7 +4952,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a23af630cf9fdbf418062b25917c366d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8187c049135bab24ea06768089da79fb, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5060,7 +5057,7 @@ GameObject:
   - component: {fileID: 1999615642}
   - component: {fileID: 1999615641}
   m_Layer: 5
-  m_Name: 'DolmabahceAciklama  '
+  m_Name: 'LOWERDUDENWATERFALLSACiklama  '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5083,7 +5080,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1000, y: 560.8444}
+  m_SizeDelta: {x: 1000, y: 783.3599}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1999615641
 MonoBehaviour:
@@ -5112,20 +5109,23 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 47
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Dolmabah\xE7e Saray\u0131, \u0130stanbul, Be\u015Fikta\u015F'ta, Kabata\u015F'tan
-    Be\u015Fikta\u015F'a uzanan Dolmabah\xE7e Caddesi'yle \u0130stanbul Bo\u011Faz\u0131
-    aras\u0131nda, 250.000 m\xB2'lik bir alan \xFCzerinde bulunan Osmanl\u0131 saray\u0131.
-    Marmara Denizi'nden Bo\u011Fazi\xE7i'ne deniz yoluyla giri\u015Fte sol k\u0131y\u0131da,
-    \xDCsk\xFCdar ve Kuzguncuk'un kar\u015F\u0131s\u0131nda yer al\u0131r. Sultan
-    Abd\xFClmecid taraf\u0131ndan in\u015Fa ettirilen saray\u0131n yap\u0131m\u0131
-    1843 y\u0131l\u0131nda ba\u015Flay\u0131p 1856 y\u0131l\u0131nda bitirilmi\u015Ftir.
-    G\xFCn\xFCm\xFCzde m\xFCze olarak kullan\u0131lmaktad\u0131r."
+  m_Text: "A\u015Fa\u011F\u0131 D\xFCden \u015Eelalesi, Antalya\u2019n\u0131n Lara
+    b\xF6lgesinde yer alan ve \u015Fehrin en ikonik do\u011Fal g\xFCzelliklerinden
+    biri olarak kabul edilen bir \u015Felaledir. D\xFCden \xC7ay\u0131'n\u0131n sular\u0131,
+    yakla\u015F\u0131k 40 metre y\xFCkseklikten Akdeniz\u2019e d\xF6k\xFClerek muhte\u015Fem
+    bir manzara olu\u015Fturur.\n\n\u015Eelalenin \xE7evresindeki D\xFCden Park\u0131,
+    ziyaret\xE7ilere y\xFCr\xFCy\xFC\u015F yollar\u0131, seyir teraslar\u0131 ve
+    dinlenme alanlar\u0131 sunar. Tekne turlar\u0131yla denizden de bu etkileyici
+    do\u011Fa harikas\u0131n\u0131 izlemek m\xFCmk\xFCnd\xFCr.\n\nA\u015Fa\u011F\u0131
+    D\xFCden \u015Eelalesi, hem yerli hem de yabanc\u0131 turistlerin ilgisini \xE7eken,
+    foto\u011Fraf\xE7\u0131l\u0131k, do\u011Fa y\xFCr\xFCy\xFC\u015Fleri ve huzurlu
+    bir atmosfer arayanlar i\xE7in m\xFCkemmel bir durakt\u0131r."
 --- !u!222 &1999615642
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5381,7 +5381,7 @@ GameObject:
   - component: {fileID: 2058605099}
   - component: {fileID: 2058605098}
   m_Layer: 5
-  m_Name: "k\u0131zkulesiAciklama"
+  m_Name: SAPADEREKANYONUAciklama
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5404,7 +5404,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1000, y: 1229.258}
+  m_SizeDelta: {x: 1000, y: 881.6191}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2058605098
 MonoBehaviour:
@@ -5433,27 +5433,23 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 47
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Kyzikos'taki deniz zaferinden sonra, M\xD6 408'de Atinal\u0131 general
-    Alkibiadis, muhtemelen Karadeniz'den gelen gemiler i\xE7in \xDCsk\xFCdar'\u0131n
-    \xF6n\xFCndeki k\xFC\xE7\xFCk bir kaya \xFCzerine \xF6zel bir istasyon in\u015Fa
-    etti.\n\r\n\xDCsk\xFCdar'\u0131n sembol\xFC h\xE2line gelen kule, \xDCsk\xFCdar\u2019da
-    Bizans devrinden kalan tek eserdir. M\xD6 24 y\u0131llar\u0131na kadar uzanan
-    bir ge\xE7mi\u015Fe sahiptir.\r\n\r\n1110'da Bizans \u0130mparatoru I. Aleksios,
-    ta\u015F duvarla korunan ah\u015Fap bir kule in\u015Fa etti.[2] Kuleden Konstantinopolis'teki
-    Mangana semtinde (tarih\xEE yar\u0131madada bir mahalle) dikilmi\u015F ba\u015Fka
-    bir kuleye uzanan bir demir zincir gerildi.[2] Adac\u0131k daha sonra su alt\u0131
-    kal\u0131nt\u0131lar\u0131 h\xE2l\xE2 g\xF6r\xFClebilen bir savunma duvar\u0131
-    ile Asya k\u0131y\u0131s\u0131na ba\u011Fland\u0131. 1453'te \u0130stanbul'un
-    Osmanl\u0131lar taraf\u0131ndan fethi s\u0131ras\u0131nda, kulede Venedikli Gabriele
-    Trevisano taraf\u0131ndan y\xF6netilen bir Bizans garnizonu bulunuyordu.[2] Daha
-    sonra yap\u0131, Fatih Sultan Mehmed d\xF6neminde Osmanl\u0131 T\xFCrkleri taraf\u0131ndan
-    g\xF6zetleme kulesi olarak kullan\u0131lm\u0131\u015Ft\u0131r."
+  m_Text: "Sapadere Kanyonu, Antalya'n\u0131n Alanya il\xE7esine yakla\u015F\u0131k
+    40 km mesafede yer al\u0131r ve do\u011Fan\u0131n bir harikas\u0131 olarak \xF6ne
+    \xE7\u0131kar. Yakla\u015F\u0131k 750 metre uzunlu\u011Funda ve 400 metre y\xFCksekli\u011Findeki
+    bu kanyon, serin sular\u0131 ve etkileyici manzaralar\u0131yla ziyaret\xE7ilerini
+    b\xFCy\xFCler.\n\nKanyon boyunca tahta y\xFCr\xFCy\xFC\u015F yollar\u0131 sayesinde
+    do\u011Fa severler, kanyonun derinliklerine kadar g\xFCvenli bir \u015Fekilde
+    ilerleyebilir. \u015Eelaleler, do\u011Fal havuzlar ve serin sular\u0131yla kanyon,
+    \xF6zellikle yaz aylar\u0131nda serinlemek isteyenler i\xE7in m\xFCkemmel bir
+    ka\xE7\u0131\u015F noktas\u0131d\u0131r.\n\nSapadere Kanyonu, do\u011Fa y\xFCr\xFCy\xFC\u015Fleri,
+    y\xFCzme ve foto\u011Fraf\xE7\u0131l\u0131k i\xE7in Antalya\u2019n\u0131n g\xF6zde
+    do\u011Fal g\xFCzelliklerinden biridir."
 --- !u!222 &2058605099
 CanvasRenderer:
   m_ObjectHideFlags: 0

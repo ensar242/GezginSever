@@ -15,9 +15,6 @@ EditorBuildSettings:
     path: Assets/gezgin/Scenes/Citys/34Istanbul/ISTANBUL.unity
     guid: 08f6d1f61164d0241ae4a20073b3b54f
   - enabled: 1
-    path: Assets/gezgin/Scenes/Citys/6ANKARA/ANKARA.unity
-    guid: 3395c2279113bcd44a7cab12c71c00d8
-  - enabled: 1
     path: Assets/gezgin/Scenes/Citys/1ADANA/ADANA.unity
     guid: 9afd58f87954f0b4b85f47b09d6188ac
   - enabled: 1
@@ -26,4 +23,28 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/gezgin/Scenes/Citys/3AFYONKARAH\u0130SAR/AFYONKARAHISAR.unity"
     guid: 2402caa37ffc20a42b7d64ed8929e75f
+  - enabled: 1
+    path: Assets/gezgin/Scenes/Citys/4AGRI/AGRI.unity
+    guid: 2fc8a11fda08d9544b29b80131990ec0
+  - enabled: 1
+    path: Assets/gezgin/Scenes/Citys/5AMASYA/AMASYA.unity
+    guid: 10d2321af193377489f109ef5b2bbe8e
+  - enabled: 1
+    path: Assets/gezgin/Scenes/Citys/6ANKARA/ANKARA.unity
+    guid: 3395c2279113bcd44a7cab12c71c00d8
+  - enabled: 1
+    path: Assets/gezgin/Scenes/Citys/7ANTALYA/ANTALYA.unity
+    guid: be3e9630cc29b7f48adce8ba604aa215
+  - enabled: 1
+    path: "Assets/gezgin/Scenes/Citys/8ARTV\u0130N/ARTVIN.unity"
+    guid: b064a7ffe5f8f5b44839d366a7ff96bf
+  - enabled: 1
+    path: Assets/gezgin/Scenes/Citys/9AYDIN/AYDIN.unity
+    guid: bc54db9d99aaf4145890ee8a66bcdea8
+  - enabled: 1
+    path: "Assets/gezgin/Scenes/Citys/10BALIKES\u0130R/BALIKESIR.unity"
+    guid: 7705cbb9d6f943045980f03e23f78f06
+  - enabled: 1
+    path: Assets/gezgin/Scenes/Citys/23ELAZIG/ELAZIG.unity
+    guid: 5645851dde4f56d4eb6a5a0de4f5dce4
   m_configObjects: {}
